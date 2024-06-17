@@ -1,5 +1,9 @@
 # Running Llama 3 and Gemma with Ollama
 
+## Video Tutorial:
+
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtu.be/ebfmJ8vLCmA?si=ofeOq8RHzisfycVW)
+
 This guide provides instructions on how to set up and run the Llama 3 and Gemma large language models using the Ollama library. Ensure you have Docker installed on your system before proceeding.
 
 ## Prerequisites
