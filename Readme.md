@@ -165,3 +165,8 @@ Comments: Increasing the top-k value from 0 to 100 lead to generation of lot of 
 ```
 
 There are many other configurations to play with in the Modelfile: https://github.com/ollama/ollama/blob/main/docs/modelfile.md
+
+| Author |
+| :----: |
+
+[<img src="https://avatars.githubusercontent.com/u/113247542?s=96&v=4" width=115><br><sub>@varun-jayakumar</sub>](https://github.com/varun-jayakumar) <br><br>
